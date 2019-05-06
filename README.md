@@ -1,2 +1,2 @@
-# nodejs-serversentevents-quickstart
-Easiest implementation possible of SSE with Node.JS
+# Server Sent Events-quickstart
+Simple SSE implementation with Node.JS
